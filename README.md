@@ -1,2 +1,2 @@
 # cosc121
-Assignments and projects from my computer science 121 course
+Examples of concepts from my computer science 121 course
